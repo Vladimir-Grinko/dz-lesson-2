@@ -1,8 +1,8 @@
-/* eslint-disable no-unused-vars */
+
 import React, { useState } from 'react';
 
 const Counter = () => {
-    // eslint-disable-next-line no-unused-vars
+    
     const [count, setCount] = useState(0);
     const tags = ['tag1','tag2','tag3'];
 
